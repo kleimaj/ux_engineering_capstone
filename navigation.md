@@ -1,0 +1,24 @@
+# Navigation
+- Users read web copy incredibly fast (in an F pattern)
+- users interact with content differently (depending on device)
+
+### Content Hierarchy: arranging / organizing content on app
+  1. Main level: core value, helps user complete goal or fulfill a need
+    - Focal point, communicates and provides value
+  2. Supporting: Enhances user engagement with the main content
+    - Adds credibility, authenticity, more info to main content
+  3. Interface: allows users to navigate the experience
+    - Provides infrastructure and key functionality (in the F pattern)
+
+#### Content Hierarchy + Navigation = Success
+##### Tips to designing good navigation
+1. Be consistent
+2. Use conventional copy (conversational tone most often wins)
+3. Avoid ambiguous icons, elements, or labels
+4. Keep it simple
+5. Keep Depth in Check, limit depth of navigation levels, (don't go more than 3 levels deep)
+6. Keep Breadth in Check, limit number of visible menu items
+
+![Navigational Depth](https://ga-instruction.s3.amazonaws.com/json/VIS-10-week/assets/week-6/userflow.png)
+
+> (2 levels of depth, the homepage doesn't count as a level)

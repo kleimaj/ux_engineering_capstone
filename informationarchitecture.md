@@ -37,4 +37,4 @@ UX Designer mainly. There are many stakeholders in IA. IA is important to develo
 3. *What else does it have?*
 4. *What do I do now?*
 
-Navigation & Search are a result of the users interacting with the content
+> Navigation & Search are a result of the users interacting with the content
