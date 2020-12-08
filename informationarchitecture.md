@@ -19,6 +19,10 @@ UX Designer mainly. There are many stakeholders in IA. IA is important to develo
   * Hierarchal - Tree like system (site maps, show how navigation is structured, where content sits, relationship between pages, tangible IA deliverable)
   * Matrix - ex. Netflix interface, behind the scenes metadata. 
 
+  > Hierarchal Sitemap
+
+  ![SiteMap](https://ga-instruction.s3.amazonaws.com/json/UXC/assets/unit-3/sitemap_facebook.svg)
+
 #### 2. Labeling Systems - What should we call it
   - never simple, requires lots of user research. Must be consistent labelso
 
@@ -28,6 +32,9 @@ UX Designer mainly. There are many stakeholders in IA. IA is important to develo
   - (don't think of a nav bar / menu, but more of a user flow)
   - To ensure easy navigation, make noticeable links on a page, remove clutter so users can see the next step, use correct labels, and use sidebars, breadcrumbs, and menus to help users move forward, backward, and out of predicted user flows.
 
+> Navigational User Flow
+
+![User Flow](https://ga-instruction.s3.amazonaws.com/json/UXC/assets/unit-3/11-User-Flow.svg)
 #### 4. Search Systems - How do users search it?
 - Effective search functions requires good metadata. 
 
