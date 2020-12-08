@@ -1,6 +1,6 @@
 ---
-title: InformationArchitecture
-tags: []
+title: Information Architecture
+tags: [Information Architecture, User experience design]
 ---
 
 # Information Architecture
