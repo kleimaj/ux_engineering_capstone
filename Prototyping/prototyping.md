@@ -19,13 +19,16 @@ A visual representation of a product that a design team puts together during the
 ![PrototypeExample](https://ga-instruction.s3.amazonaws.com/json/UXD-10-week/assets/week-4/app-screens-prototype.png)
 
 ### Why do we make prototypes?
-##### Refinement
+**Refinement**
 - Similar to sketching, we prototype primarily as a way to refine and explore a concept
-##### Functionality
+
+**Functionality**
 - We can more effectively test functionality with users through prototyping
-##### Communication
+
+**Communication**
 - We can use prototypes to communicate with our team and additional stakeholders
-##### User-Centered
+
+**User-Centered**
 - Prototypes allow us to validate whether or not our designs enable users to accomplish their target goal in an intuitive way.
 ##### Efficiency
 - Production development can get messy with database issues, integration points, code maintainability, quality assurance, deployment, and more. A prototype helps you avoid unnecessary problems.
@@ -45,13 +48,13 @@ Hi-fi prototypes test value and functionality. They are also known as "functiona
 
 ![Prototype](https://ga-instruction.s3.amazonaws.com/json/UXF/assets/unit-4/lesson2%263/instagram-prototype.gif)
 
-When using hi-fi prototypes with users, you'll conduct <strong>usability tests</strong>. These tests allow designers to create task scenarios and instruct users to interact with the prototype.
+When using hi-fi prototypes with users, you'll conduct **usability tests**. These tests allow designers to create task scenarios and instruct users to interact with the prototype.
 
 #### Hi-Fi prototypes are most effective for testing:
-- <strong>Flow of screens:</strong> What the user sees and does on the site or app.
-- <strong>Motion and gestures:</strong> How the user controls the site or app.
-- <strong>Timing:</strong> When the user sees content on the site or app.
-- <strong>Expectations:</strong> How the content and flow support what users expect on the site or app.
+- **Flow of screens:** What the user sees and does on the site or app.
+- **Motion and gestures:** How the user controls the site or app.
+- **Timing:** When the user sees content on the site or app.
+- **Expectations:** How the content and flow support what users expect on the site or app.
 
 ### InVision - the essential collection of design tools
 
