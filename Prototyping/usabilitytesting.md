@@ -37,9 +37,9 @@ Usability refers to how easy and pleasant user interfaces are to use. When a des
      1a. **Prepare Task Scenarios**
     - A *task scenario* is the action you ask the participant to take so you can observe how they use the product.
     - To create task scenarios, ask yourself:
-      -*What are the goals a user has when interacting with my product?*
-      -*Do I have specific questions about how my design will work in practice?*
-      -*Do I need to test a specific interaction or flow?*
+      - *What are the goals a user has when interacting with my product?*
+      - *Do I have specific questions about how my design will work in practice?*
+      - *Do I need to test a specific interaction or flow?*
     - Example: 
         *You're a single twenty-something traveling for a weekend getaway with your college friends to New York City on March 3–March 14. You need to buy both airfare and hotel. Go to the American Airlines website and JetBlue website to see which has the best travel deals for those dates.*
     
@@ -52,6 +52,26 @@ Usability refers to how easy and pleasant user interfaces are to use. When a des
         - Information about the users in the test group.
         - Your test script, as well as instructions, scenarios, and steps for each task.
 2. **Recruit** participants who resemble your target audience.
+    2a. **Early Recruitment**
+    - Find participants early on that look like your target user demographic.
+    2b. **Participant Quantity**
+    - According to usability expert Jakob Nielsen, testing five people wil catch 85% of usability issues with a design. The remaining 15% of issues can be caught with 15 users.
+    ![usability-problemsxparticipants](https://s3.amazonaws.com/ga-instruction/json/UXF/assets/unit-6/lesson1/number_of_usability_testers.png)
+    2c. **Recruiting Methods**
+        - Existing Users
+        For refining projects, you can test with existing users. [Ethnio](https://ethn.io/) and [UserZoom](https://www.userzoom.com/) are tools that allow you to recruit participants directly from your site.
+        - Your Network
+        For new designs, you can recruit from your own network with Facebook or LinkedIn. Be careful to avoid bias in who tests your products.
+        - Classified Ads
+        Classified ads can be a great geography-specific recruiting tool. Use the "gigs" section of Craigslist, newspapers, online message boards.
+        - Snowball Recruiting
+        Snowball recruiting leverages the networks of participants you recruited and asking them if they know anyone else who would be interested.
 3. **Conduct** the usability test in a quiet place with a working prototype.
+    3a. **Conducting Effective Tests**
+    - Be as hands off as possible. Don't insert yourself into the user experience.
+    - Be in a comfortable environment for the user.
+    - Ensure the prototype is working ahead of time.
+    - Emphasize that the participant isn't being "tested".
+    - Encourage the participant to "think aloud".
 4. **Analyze** the data to find patterns and problems.
 5. **Debrief** the test and determine next steps.
