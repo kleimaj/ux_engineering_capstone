@@ -74,4 +74,13 @@ Usability refers to how easy and pleasant user interfaces are to use. When a des
     - Emphasize that the participant isn't being "tested".
     - Encourage the participant to "think aloud".
 4. **Analyze** the data to find patterns and problems.
+    4a. **Data Analysis**
+    - Quantitive Measures
+        - Success rate
+        - Speed
+        - Error rate
+    - Qualitative Measures
+        - Satisfaction Level
+        - Problems experienced
+        - Pathways participants took
 5. **Debrief** the test and determine next steps.
