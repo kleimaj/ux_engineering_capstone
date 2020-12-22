@@ -83,4 +83,12 @@ Usability refers to how easy and pleasant user interfaces are to use. When a des
         - Satisfaction Level
         - Problems experienced
         - Pathways participants took
+
+    4b. **Performance and Preference**
+    - Performance is a quantitive measure, it can be evaluated by success, time, or errors.
+    - Preference is a qualitative measure, it's measured by the user's self-reported satisfaction or comfort level.
+    
+    4c. **Frequency and Severity**
+    - Frequency is quantitative that shows the number of users affected by a particular error.
+
 5. **Debrief** the test and determine next steps.
